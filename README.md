@@ -9,3 +9,13 @@ Make sure have installed `node.js` on your computer, then install `ws` using the
 ```
 npm install --save ws
 ```
+
+# Usage
+
+To Start the server, in a node.js commande line terminal, go in the server directory and do:
+
+```
+node main.js
+```
+
+The client can now be launched from your browser, `http://localhost:8080`
